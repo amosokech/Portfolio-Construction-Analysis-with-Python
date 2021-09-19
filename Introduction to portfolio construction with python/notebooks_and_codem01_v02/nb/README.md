@@ -1,4 +1,4 @@
-# Vijay's Notebooks and EDHEC Risk Kit Code
+# Amos Notebooks and EDHEC Risk Kit Code
 (c) Amos Okech 2020
 
 Here are my Notebooks and Code files I did as an assignment for the EDHEC/Coursera course for you to use as a reference.
