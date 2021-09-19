@@ -1,8 +1,8 @@
 # Vijay's Notebooks and EDHEC Risk Kit Code
-(c) Vijay Vaidyanathan 2019
+(c) Amos Okech 2020
 
-Here are my Notebooks and Code files I developed for the EDHEC/Coursera course for you to use as a reference.
+Here are my Notebooks and Code files I did as an assignment for the EDHEC/Coursera course for you to use as a reference.
 
 You will also need to have the data folder unpacked into the same folder as these in order to load the data in.
 
-This is version 01, I will update as bugs/issues are reported.
+I will keep updating this folder as I gain more experience in the world of finance
